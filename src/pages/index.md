@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: "Great coffee with a conscience \U0001F44B"
-subheading: Support sustainable farming while enjoying a cup
+title: MAVI BYGG AB
+image: /img/brina-blum-qv0d5ljcxgo-unsplash.jpg
+heading: Great coffee with a conscience
+subheading: Lorem ipsum dolar sit amet
 mainpitch:
   title: Why Kaldi
   description: >
